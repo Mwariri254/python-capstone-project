@@ -3,7 +3,6 @@
 
 
 
-
 2. What tools did you use?
 > Python? GeoPanadas? Google Big Query?
 > Tell your audience how you got the answer,  tools show your capability
@@ -11,12 +10,9 @@
 
 
 
-
 3. What insights did you or do you want to discover?/ What Solutions do you want to offer? Do People even need these solutions?
 > Don’t just say “dashboard done.”
 > Share the “aha!” moments, they matter more that the visuals
-
-
 
 
 
